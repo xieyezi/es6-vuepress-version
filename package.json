@@ -9,7 +9,7 @@
     "docs:build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["es6"],
+  "author": "xieyezi",
   "license": "ISC"
 }

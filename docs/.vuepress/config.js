@@ -11,6 +11,9 @@ module.exports = {
   },
   themeConfig: {
     lastUpdated: '最后更新时间', // 最后更新时间
+    docsRepo: 'xieyezi/es6-vuepress-version',
+    docsDir: 'docs',
+    docsBranch: 'master',
     editLinks: true, // 编辑链接
     editLinkText: '帮助我改善这个页面', // 链接字段
     sidebarDepth: 1,
