@@ -14,14 +14,13 @@ footer: MIT Licensed | Copyright © 2019-present xieyezi
 ---
 
 
-::: tip
-灵感来自[阮一峰-ES6 标准入门](https://github.com/ruanyf/es6tutorial)   
- 将阮一峰大大的[ES6 标准入门](http://es6.ruanyifeng.com/#README) 修改为 `Vue` 文档风格.
+::: tip 
+ 将阮一峰大大的[ES6入门教程](http://es6.ruanyifeng.com/#README) 修改为 `Vue` 文档风格.
 :::
 
 ### 在线阅读地址
 
-请点击这里:[ES6标准入门-Vuepress版本](https://xieyezi.github.io/es6-vuepress-version/)
+请点击这里:[ES6入门教程-Vuepress版本](https://xieyezi.github.io/es6-vuepress-version/)
 
 ### 快速开始
 

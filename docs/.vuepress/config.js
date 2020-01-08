@@ -1,7 +1,7 @@
 const page = require("./config/page")
 module.exports = {
-  title: "ES6标准入门",
-  description: "ES6标准入门-vuepress版本",
+  title: "ES6入门教程",
+  description: "ES6入门教程-Vuepress版本",
   base: '/es6-vuepress-version/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
